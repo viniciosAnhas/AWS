@@ -1,2 +1,5 @@
-# AWS
-Estudos de AWS
+<div align="center">
+  <div>
+    <img height = "150" width = "150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  </div>
+</div>
